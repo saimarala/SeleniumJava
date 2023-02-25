@@ -1,0 +1,26 @@
+
+
+Syntax
+for(what values your container will return : container)
+{
+
+
+}
+
+Example
+String names[];
+
+int marks[];
+
+Object v[];
+
+
+for(String x:names)
+{
+
+}
+
+for(int x: marks)
+{
+
+}
